@@ -1,0 +1,1 @@
+/Users/jabelic/.zprezto/runcoms/zlogin

@@ -1,0 +1,20 @@
+
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+brew "graphviz"
+brew "pyenv"
+brew "tree"
+brew "ffmpeg"
+brew "pyenv"
+brew "pandoc"
+
+cask "clipy"
+cask "discord"
+cask "firefox"
+cask "gnucash"
+cask "google-chrome"
+cask "google-japanese-ime"
+cask "visual-studio-code"
+cask "iterm2"
+

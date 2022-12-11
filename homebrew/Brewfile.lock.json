@@ -1,0 +1,16 @@
+{
+  "entries": {
+  },
+  "system": {
+    "macos": {
+      "monterey": {
+        "HOMEBREW_VERSION": "3.6.14",
+        "HOMEBREW_PREFIX": "/usr/local",
+        "Homebrew/homebrew-core": "655c1509f8b2c9324d4daa767ad0dee04fe7a206",
+        "CLT": "14.1.0.0.1.1666437224",
+        "Xcode": "14.1",
+        "macOS": "12.4"
+      }
+    }
+  }
+}
